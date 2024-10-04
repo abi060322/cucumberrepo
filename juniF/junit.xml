@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="15.046503">
+    <testcase classname="" name="_2" time="11.250375">
+        <system-out><![CDATA[Given To launch adactin browser.............................................passed
+When To enter valid username in usernamefield...............................passed
+And To enter valid password in passwodfield.................................passed
+And To click the login button...............................................passed
+Then is login passed........................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="_3" time="1.338407">
+        <system-out><![CDATA[When To select the location of hotel........................................passed
+And To select the hotel.....................................................passed
+And To select the room type.................................................passed
+And To select no of rooms...................................................passed
+And To click the search button..............................................passed
+Then Is room searched.......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="_4" time="1.006101">
+        <system-out><![CDATA[When to click the hotel name................................................passed
+And To click continue button................................................passed
+Then Is hotel selected......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="" name="_5" time="1.45162">
+        <system-out><![CDATA[When To enter valid First name in namefield.................................passed
+And To enter valid last name in namefield...................................passed
+And To enter valid billing address..........................................passed
+And To enter valid card no..................................................passed
+And To select card type.....................................................passed
+And To select month.........................................................passed
+And To select year..........................................................passed
+And To enter valid cvv no...................................................passed
+And To click book now button................................................passed
+Then Is room booked.........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
